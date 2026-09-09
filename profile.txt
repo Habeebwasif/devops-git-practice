@@ -1,0 +1,4 @@
+Profile page
+Username: habeeb
+User information
+Email: user@example.com
