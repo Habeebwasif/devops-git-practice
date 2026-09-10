@@ -1,4 +1,6 @@
 1 commit
 commit X
-commit Y
+<<<<<<< HEAD
 commit Z
+=======
+>>>>>>> parent of f4ecd7d (Added commit Y)
